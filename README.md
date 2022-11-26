@@ -1,5 +1,5 @@
 # MITx_15.455x_Mathematical_Methods_for_Quantitative_Finance
-The syllabus covered inthe course are the following.
+The syllabus covered in the course are the basics of the following topics.
 1. Probability
 2. Discrete-time Stochastic Processes
 3. Time Series
