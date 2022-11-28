@@ -11,3 +11,6 @@ The syllabus covered in the course are the basics of the following topics.
 
 
 All codings related to the course from week 3 onwards are in this rep. I will try to add the descriptions as I go.
+
+Week 3:
+1. Write codes to generate ARMA(p, q) data and plot ACF and PACF in Python by calling statsmodels package.
