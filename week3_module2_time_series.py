@@ -25,6 +25,7 @@ def time_series_model(model, parameters):
             rt[i] = c[0] + c[1] * rt[i - 1] + c[2] * rt[i - 2] + sigmat * zt[i] + theta[0] * zt[i - 1] + theta[1] * zt[i - 2]
 
     return np.cumsum(rt, axis = 0)
+    # return rt
 
 timesteps = 1000
 instances = 1
